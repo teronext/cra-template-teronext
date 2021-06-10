@@ -24,9 +24,6 @@
     },
     "scripts": {
       "start-win": "SET PORT=3000 && react-scripts start"
-    },
-    "eslintConfig": {
-      "extends": ["react-app", "react-app/jest"]
     }
   }
 }
