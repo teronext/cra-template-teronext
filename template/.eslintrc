@@ -66,6 +66,11 @@
   "settings": {
     "react": {
       "version": "require('./package.json').dependencies.react"
+    },
+    "import/resolver": {
+      "node": {
+        "paths": ["src"]
+      }
     }
   }
 }
