@@ -11,7 +11,8 @@ npx create-react-app my-app --template teronext
 
 # or
 
-yarn create react-app my-app --template teronext
+npx create-react-app my-app --use-npm --template teronext
+(if you have yarn installed)
 ```
 
 For more information, please refer to:
